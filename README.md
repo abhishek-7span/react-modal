@@ -1,1 +1,1 @@
-# react-modal
+# React Modal
